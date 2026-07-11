@@ -2,13 +2,17 @@
 
 **Dataset:** Kaggle House Prices
 
-## Kya kiya:
+## Overview
+This project focuses on exploratory data analysis and feature engineering to prepare the House Prices dataset for modeling.
+
+## Key Steps
 - Domain-aware missing value imputation
-- IQR-based Winsorization (outlier handling)
-- 5 new engineered features
+- IQR-based Winsorization for outlier handling
+- Creation of 5 new engineered features
 - One-Hot Encoding for categorical variables
-- Multicollinearity removal (0.80 correlation threshold)
+- Multicollinearity removal using a 0.80 correlation threshold
 
 ## Files
-- Notebook is is folder mein upload karo (`.ipynb`)
+- Notebook (`.ipynb`) to be uploaded in this folder
+
 
